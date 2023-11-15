@@ -1,4 +1,1 @@
-from utils import db_connect
-engine = db_connect()
-
-# your code here
+#The excersise is in the explore.ipynb
